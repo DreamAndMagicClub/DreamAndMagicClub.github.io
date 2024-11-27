@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>梦雾社</title>
+  <icon>http://example.com/icon.png</icon>
+  <subtitle>聊城一中梦雾社</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-11-27T15:41:28.267Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>DreamAndMagicClub</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[更新中]抛物线的一些性质与证明</title>
+    <link href="http://example.com/2024/11/27/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%A7%E8%B4%A8%E4%B8%8E%E8%AF%81%E6%98%8E/"/>
+    <id>http://example.com/2024/11/27/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%A7%E8%B4%A8%E4%B8%8E%E8%AF%81%E6%98%8E/</id>
+    <published>2024-11-27T14:28:20.000Z</published>
+    <updated>2024-11-27T15:41:28.267Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;形缺数时难入微，数缺形时少直观.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;本文是对抛物线的一些简单性质的整理与证明&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="数学" scheme="http://example.com/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="抛物线" scheme="http://example.com/tags/%E6%8A%9B%E7%89%A9%E7%BA%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>testpage</title>
+    <link href="http://example.com/2024/11/26/testpage/"/>
+    <id>http://example.com/2024/11/26/testpage/</id>
+    <published>2024-11-26T12:25:06.000Z</published>
+    <updated>2024-11-26T12:52:18.333Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;这是一份测试页面&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#这是一份测试页面&quot;&gt;&lt;/a&gt; &lt;strong&gt;这是一份测试页面&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;上次修改时间&lt;/strong&gt;：2024-11-26</summary>
+        
+      
+    
+    
+    
+    
+    <category term="test" scheme="http://example.com/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2024/11/26/hello-world/"/>
+    <id>http://example.com/2024/11/26/hello-world/</id>
+    <published>2024-11-26T11:57:31.730Z</published>
+    <updated>2024-11-26T13:28:45.207Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
