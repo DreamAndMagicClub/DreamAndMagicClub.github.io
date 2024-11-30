@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-11-30T12:26:31.221Z</updated>
+  <updated>2024-11-30T12:39:31.331Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【发电】本篇的作者发现了古明地恋是不存在的</title>
+    <link href="http://example.com/2024/11/30/%E3%80%90%E5%8F%91%E7%94%B5%E3%80%91%E6%9C%AC%E7%AF%87%E7%9A%84%E4%BD%9C%E8%80%85%E5%8F%91%E7%8E%B0%E4%BA%86%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%E6%98%AF%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84/"/>
+    <id>http://example.com/2024/11/30/%E3%80%90%E5%8F%91%E7%94%B5%E3%80%91%E6%9C%AC%E7%AF%87%E7%9A%84%E4%BD%9C%E8%80%85%E5%8F%91%E7%8E%B0%E4%BA%86%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%E6%98%AF%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84/</id>
+    <published>2024-11-30T12:32:07.000Z</published>
+    <updated>2024-11-30T12:39:31.331Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;无题&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#无题&quot;&gt;&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="发电" scheme="http://example.com/tags/%E5%8F%91%E7%94%B5/"/>
+    
+    <category term="东方Project" scheme="http://example.com/tags/%E4%B8%9C%E6%96%B9Project/"/>
+    
+    <category term="社外人员编辑" scheme="http://example.com/tags/%E7%A4%BE%E5%A4%96%E4%BA%BA%E5%91%98%E7%BC%96%E8%BE%91/"/>
+    
+  </entry>
   
   <entry>
     <title>[更新中]东方图集</title>
