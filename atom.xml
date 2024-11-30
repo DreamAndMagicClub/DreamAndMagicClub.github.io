@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-11-28T15:11:04.089Z</updated>
+  <updated>2024-11-30T12:26:31.221Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[更新中]东方图集</title>
+    <link href="http://example.com/2024/11/30/%E6%9B%B4%E6%96%B0%E4%B8%AD-%E4%B8%9C%E6%96%B9%E5%9B%BE%E9%9B%86/"/>
+    <id>http://example.com/2024/11/30/%E6%9B%B4%E6%96%B0%E4%B8%AD-%E4%B8%9C%E6%96%B9%E5%9B%BE%E9%9B%86/</id>
+    <published>2024-11-30T11:39:17.000Z</published>
+    <updated>2024-11-30T12:26:31.221Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;本文是收集的一些东方图集&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#本文是收集的一些东方图集&quot;&gt;&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="东方Project" scheme="http://example.com/tags/%E4%B8%9C%E6%96%B9Project/"/>
+    
+    <category term="图集" scheme="http://example.com/tags/%E5%9B%BE%E9%9B%86/"/>
+    
+  </entry>
   
   <entry>
     <title>[更新中]抛物线的一些性质与证明</title>
