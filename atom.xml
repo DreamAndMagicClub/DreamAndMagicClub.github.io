@@ -4,9 +4,9 @@
   <icon>http://example.com/icon.png</icon>
   <subtitle>聊城一中梦雾社</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
-  
+  <link href="https://dreamandmagicclub.github.io/" rel="hub"/>
   <link href="http://example.com/"/>
-  <updated>2024-11-30T12:52:39.813Z</updated>
+  <updated>2024-12-01T07:56:09.587Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>社团公告</title>
+    <link href="http://example.com/2024/12/01/%E7%A4%BE%E5%9B%A2%E5%85%AC%E5%91%8A/"/>
+    <id>http://example.com/2024/12/01/%E7%A4%BE%E5%9B%A2%E5%85%AC%E5%91%8A/</id>
+    <published>2024-12-01T07:42:41.000Z</published>
+    <updated>2024-12-01T07:56:09.587Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;第一版总章程&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#第一版总章程&quot;&gt;&lt;/a&gt; 第一版总章程&lt;/h2&gt;
+&lt;h2 id=&quot;由社长编写-起草时间2024-12-1&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="公告" scheme="http://example.com/tags/%E5%85%AC%E5%91%8A/"/>
+    
+    <category term="社团相关" scheme="http://example.com/tags/%E7%A4%BE%E5%9B%A2%E7%9B%B8%E5%85%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>【发电】本篇的作者发现了古明地恋是不存在的</title>
@@ -48,7 +74,7 @@
     <link href="http://example.com/2024/11/30/%E6%9B%B4%E6%96%B0%E4%B8%AD-%E4%B8%9C%E6%96%B9%E5%9B%BE%E9%9B%86/"/>
     <id>http://example.com/2024/11/30/%E6%9B%B4%E6%96%B0%E4%B8%AD-%E4%B8%9C%E6%96%B9%E5%9B%BE%E9%9B%86/</id>
     <published>2024-11-30T11:39:17.000Z</published>
-    <updated>2024-11-30T12:56:28.106Z</updated>
+    <updated>2024-12-01T07:51:26.142Z</updated>
     
     
       
